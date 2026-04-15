@@ -54,8 +54,8 @@ or
 total_sale is null;
 
 select count(*) from retail_sales
-
---data exploration
+ 
+ --data exploration
 -- how many sales we have
  select count(*) total_sale from retail_sales
 
